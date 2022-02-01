@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Benjamin Misteli
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD student in Aquatic Ecology
 
 # Organizations/Affiliations to show in About widget
 organizations:
